@@ -70,5 +70,5 @@ should not be generalised beyond the file analysed.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/.data-science-project.git
+   git clone https://github.com/MOYEHUA/.data-science-project.git
    cd .data-science-project
