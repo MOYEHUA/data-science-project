@@ -45,7 +45,7 @@ describing the operation being performed, so the analysis can be followed
 line by line.
 
 ## Key Findings
-
+![Notebook Results](./Practice01_Activity1.01_FullNotebook_Result.png)
 - **Row-level centrality:** The mean of the third row is approximately
   **100.20**, and the median of the final row is approximately **99.19**,
   both close to the centre expected from a normal distribution centred near 100.
